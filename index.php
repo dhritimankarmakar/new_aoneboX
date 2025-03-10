@@ -625,6 +625,8 @@ $twitter_card = "summary";
           <span>Shrabanti Sarkar</span>
         </div>
       </div>
+    </div>
+    <div class="row">
       <div class="col-lg-3 col-md-4 col-12 pb-3" style="padding: 0px 5px;">
         <div class="team-member">
           <img src="images/aonebox-team-sanjana.jpg" alt="Sanjana Kothari Gupta" />
