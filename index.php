@@ -611,14 +611,15 @@ $twitter_card = "summary";
     </div>
 
     <div class="row">
-      <div class="col-lg-3 col-md-4 col-12 pb-3" style="padding: 0px 5px;">
+
+      <div class="col-lg-3 col-md-4 col-12 pb-3 pt-3" style="padding: 0px 5px;">
         <div class="team-member">
           <img src="images/aonebox-team-monika.jpg" alt="Monika Trivedi" />
           <div class="overlay"></div>
           <span>Monika Trivedi</span>
         </div>
       </div>
-      <div class="col-lg-3 col-md-4 col-12 pb-3" style="padding: 0px 5px;">
+      <div class="col-lg-3 col-md-4 col-12 pb-3 pt-3" style="padding: 0px 5px;">
         <div class="team-member">
           <img src="images/aonebox-team-shrabanti.jpg" alt="Shrabanti Sarkar" />
           <div class="overlay"></div>
@@ -626,42 +627,52 @@ $twitter_card = "summary";
         </div>
       </div>
     </div>
+    <div class="bordered-bottom"></div>
     <div class="row">
-      <div class="col-lg-3 col-md-4 col-12 pb-3" style="padding: 0px 5px;">
-        <div class="team-member">
-          <img src="images/aonebox-team-sanjana.jpg" alt="Sanjana Kothari Gupta" />
-          <div class="overlay"></div>
-          <span>Sanjana Kothari Gupta</span>
-        </div>
-      </div>
-      <div class="col-lg-3 col-md-4 col-12 pb-3" style="padding: 0px 5px;">
-        <div class="team-member">
-          <img src="images/aonebox-team-vineet.jpg" alt="Vineet Bidasaria" />
-          <div class="overlay"></div>
-          <span>Vineet Bidasaria</span>
-        </div>
-      </div>
-      <div class="col-lg-3 col-md-4 col-12 pb-3" style="padding: 0px 5px;">
+      <div class="col-lg-3 col-md-4 col-12 pb-3 pt-3" style="padding: 0px 5px;">
         <div class="team-member">
           <img src="images/aonebox-team-pabitra.jpg" alt="Pabitra Azaz Ahammed" />
           <div class="overlay"></div>
           <span>Pabitra Azaz Ahammed</span>
         </div>
       </div>
-      <div class="col-lg-3 col-md-4 col-12 pb-3" style="padding: 0px 5px;">
+      <div class="col-lg-3 col-md-4 col-12 pb-3 pt-3" style="padding: 0px 5px;">
+        <div class="team-member">
+          <img src="images/aonebox-team-monika.jpg" alt="Monika Trivedi" />
+          <div class="overlay"></div>
+          <span>Monika Trivedi</span>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-4 col-12 pb-3 pt-3" style="padding: 0px 5px;">
+        <div class="team-member">
+          <img src="images/aonebox-team-shrabanti.jpg" alt="Shrabanti Sarkar" />
+          <div class="overlay"></div>
+          <span>Shrabanti Sarkar</span>
+        </div>
+      </div>
+      <div class="col-lg-3 col-md-4 col-12 pb-3 pt-3" style="padding: 0px 5px;">
         <div class="team-member">
           <img src="images/aonebox-team-subham.jpg" alt="Subham Sharma" />
           <div class="overlay"></div>
           <span>Subham Sharma</span>
         </div>
       </div>
-      <div class="col-lg-3 col-md-4 col-12 pb-3" style="padding: 0px 5px;">
+      <div class="col-lg-3 col-md-4 col-12 pb-3 pt-3" style="padding: 0px 5px;">
         <div class="team-member">
-          <img src="images/member7.webp" alt="Rupa Jaiswal" />
+          <img src="images/aonebox-team-sanjana.jpg" alt="Sanjana Kothari Gupta" />
           <div class="overlay"></div>
-          <span>Rupa Jaiswal</span>
+          <span>Sanjana Kothari Gupta</span>
         </div>
       </div>
+      <div class="col-lg-3 col-md-4 col-12 pb-3 pt-3" style="padding: 0px 5px;">
+        <div class="team-member">
+          <img src="images/aonebox-team-vineet.jpg" alt="Vineet Bidasaria" />
+          <div class="overlay"></div>
+          <span>Vineet Bidasaria</span>
+        </div>
+      </div>
+
+      
     </div>
   </div>
 </section>

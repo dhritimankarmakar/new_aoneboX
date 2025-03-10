@@ -4227,3 +4227,20 @@ logo-slider-right > div:hover {
   max-width: none !important;
   background: none !important
 }
+
+
+.bordered-bottom {
+  background-image: linear-gradient(
+    to right,
+    rgb(139, 191, 64) 25%,
+    rgb(230, 27, 33) 25%,
+    rgb(230, 27, 33) 50%,
+    rgb(124, 196, 236) 50%,
+    rgb(124, 196, 236) 75%,
+    rgb(254, 181, 17) 75%
+  );
+  background-size: 100% 4px;
+  background-repeat: no-repeat;
+  background-position: 0% 100%;
+  width:100%
+}
